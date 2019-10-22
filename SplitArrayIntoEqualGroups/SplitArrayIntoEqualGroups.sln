@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29324.140
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SplitArrayIntoEqualGroups", "SplitArrayIntoEqualGroups\SplitArrayIntoEqualGroups.csproj", "{F8F219B0-BB65-4CE8-B7B9-1CF7497F058D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8F219B0-BB65-4CE8-B7B9-1CF7497F058D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8F219B0-BB65-4CE8-B7B9-1CF7497F058D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8F219B0-BB65-4CE8-B7B9-1CF7497F058D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8F219B0-BB65-4CE8-B7B9-1CF7497F058D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8392D083-5D63-46A4-A55A-CB5BED74B418}
+	EndGlobalSection
+EndGlobal
